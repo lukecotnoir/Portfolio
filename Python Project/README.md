@@ -2,6 +2,11 @@
 
 I completed this project for my second python class. Its purpose is to take a csv or binary file with some wave signal information and perform a fourier transform to make the signal cleaner. It displays a graph with both the original and clean wave in user-selected colors along with some information about the signal.
 
+# Dependencies
+    Python Packages:
+        TKinter
+        MatPlotLib
+        Numpy
 # How to run it:
 For this project to work, make sure you install the TKinter, MatPlotLib, and Numpy packages for python.
 Then, run the fourier_gui.py file. 
