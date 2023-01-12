@@ -15,8 +15,8 @@ Open one of the noisy_signal files, select the plot colors, select the number of
 You can save the plot you created in the top menu bar.
 
 # Project file structure:
-    Data folder: contains signal files to use with this program.
-    Figures: Default save location for the plots you create.
-    src: contains the main script and supporting methods
-        - given: contains supporting methods. Most importantly fft.py which contains the FFT class to actually perform the fourier transform.
-        - fourier_gui.py: contains the TKinter loop and the main method.
+Data folder: contains signal files to use with this program.
+Figures: Default save location for the plots you create.
+src: contains the main script and supporting methods
+    - given: contains supporting methods. Most importantly fft.py which contains the FFT class to actually perform the fourier transform.
+    - fourier_gui.py: contains the TKinter loop and the main method.
